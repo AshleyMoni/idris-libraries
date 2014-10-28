@@ -2,6 +2,7 @@ module Ashley.Elem
 
 import Data.List
 
+%access public
 %default total
 
 ||| If an element is in the left sublist of an append, it's in the final list too.
